@@ -1,0 +1,6 @@
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\bin\Debug\LINQ_Stuff.exe.config
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\bin\Debug\LINQ_Stuff.exe
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\bin\Debug\LINQ_Stuff.pdb
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\obj\Debug\LINQ_Stuff.csprojAssemblyReference.cache
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\obj\Debug\LINQ_Stuff.exe
+C:\Users\matth\source\repos\LINQ_Stuff\LINQ_Stuff\obj\Debug\LINQ_Stuff.pdb
